@@ -1,2 +1,2 @@
-#Eddie Del Cid portfolio
-This is my aws portfolio. Im using AWS and ReactJS
+# Eddie Del Cid portfolio
+This is my AWS portfolio. Im using AWS and ReactJS
