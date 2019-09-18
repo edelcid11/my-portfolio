@@ -5,9 +5,9 @@ phases:
     commands:
       - echo nothing to do yet
 artifacts:
+  files:
   - index.html
   - favicon.icon
   - Resumedc.pdf
   - styles/*
   - images/*
-  
